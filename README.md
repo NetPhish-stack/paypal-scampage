@@ -18,8 +18,8 @@ This is the most advanced live panel dashboard we have created for scampages. We
    - **Individual Victim Pages:** 📄 Create dedicated pages for each victim to execute redirections and display information.
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <img src="https://github.com/NetPhish-stack/PhishNet-paypal-scampage/assets/174648947/6cd36101-d7de-4ee3-8e72-76b6057bff63" width="48%">
-    <img src="https://github.com/NetPhish-stack/PhishNet-paypal-scampage/assets/174648947/daab062b-3eb7-4848-92ba-f17476024759" width="48%">
+    <img src="https://github.com/NetPhish-stack/paypal-scampage/assets/174648947/1ef27561-b45d-46b1-a798-9e0eba39d197" width="48%">
+    <img src="https://github.com/NetPhish-stack/paypal-scampage/assets/174648947/0b02244a-ff74-45cd-8f2b-f3560a916931" width="48%">
 </div>
 
 ## Scampage Management Tools:
