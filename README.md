@@ -1,5 +1,7 @@
 # Phishing Live Panel Scampage Features
 
+![dashboard](https://github.com/user-attachments/assets/cf64b52e-d7c8-410d-82f5-bf82f0f06f9e)
+
 This is the most advanced live panel dashboard we have created for scampages. We currently have Coinbase, PayPal, Chase, Wells Fargo, Navy Federal, and 99 more pages created using the same panel, ready to be used by spammers and black hat hackers. Below are the features:
 
 ## Key Dashboard Features:
